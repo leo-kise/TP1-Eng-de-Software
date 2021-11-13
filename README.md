@@ -14,7 +14,7 @@ Back-end: Python
 Banco de dados: SQLite
 Front-end: Python(Dash)
 
-Escopo do projeto:
+Definição do projeto:
 
 - Construção do Banco de Dados (responsável: Rodrigo  Barbosa Faria)
   - Analisar os requisitos para o banco de dados com base na base de dados selecionada.
