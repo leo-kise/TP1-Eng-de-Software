@@ -32,10 +32,10 @@ Definição do projeto:
   - Validar os dados do SQLite com os inseridos no programa para autorizar ou não o acesso.
  
 - Construção do Dashboard (responsável: Leandro Henrique)
-  - Integrar o Banco de Dados com o programa de visualização desenvolvido.
+  - Integrar o Banco de Dados com o dashboard.
   - Projetar o layout de distribuição das informações.
   - Construção do mapa coroplético (de acordo com o número de casos).
-  - Trabalhar a interatividade do mapa.
+  - Trabalhar a interatividade entre o mapa e usuário.
   - Desenvolver filtros de exibição das informações (data e local).
 
 - Construção dos gráficos do Dashboard (responsável: Carolainy Oliveira)
