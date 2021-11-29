@@ -24,13 +24,16 @@ Definição do projeto:
   - Criar um UML.
   - Criar o BD com SQL.
 
-- Construção da Tela de Login (responsável: Leonardo Vinicius)
-  - Obter os objetos graficos de maneira facilitada com software (como OT DESIGNER).
-  - Declarar os objetos criados no IDE como variaveis.
-  - Utilizar o SQLite para a criação do banco de dados.
-  - Conectar o banco de dados com as variáveis do código.
-  - Validar os dados do SQLite com os inseridos no programa para autorizar ou não o acesso.
- 
+- Historia: Fazer o login no sistema.
+
+- Tarefas:
+
+  - Obter os objetos graficos de maneira facilitada com software (como OT DESIGNER). [Leonardo]
+  - Declarar os objetos criados no IDE como variaveis. [Leonardo]
+  - Utilizar o SQLite para a criação do banco de dados. [Leonardo]
+  - Conectar o banco de dados com as variáveis do código. [Leonardo]
+  - Validar os dados do SQLite com os inseridos no programa para autorizar ou não o acesso. [Leonardo]
+
 - Construção do Dashboard (responsável: Leandro Henrique)
   - Integrar o Banco de Dados com o dashboard.
   - Projetar o layout de distribuição das informações.
